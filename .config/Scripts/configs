@@ -1,0 +1,12 @@
+cff    ~/.config/Scripts/folders
+cfc    ~/.config/Scripts/configs
+cfb    ~/.bashrc
+cfsp   ~/.spacemacs
+cfr    ~/.config/ranger/rc.conf
+cfi    ~/.config/i3/config
+cfq    ~/.config/qutebrowser/config.py
+cfp    ~/.config/polybar/config
+cfd    ~/.Xdefaults
+cfmb   ~/.ncmpcpp/bindings
+cfmc   ~/.ncmpcpp/config
+cfmpd  ~/.config/mpd/mpd.conf
