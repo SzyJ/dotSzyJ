@@ -1,6 +1,8 @@
 # SzyJ dots
 Time-stamp: <25-06-2019>
 
+Welcome to my Linux configs
+
 ## System
 * OS: Manjaro Linux
 * Laptop: ThinkPad X220
@@ -11,3 +13,8 @@ Time-stamp: <25-06-2019>
 * Shell: ZShell (with oh-my-zshell)
 * Editor: Emacs
 * File Manager: Ranger
+
+## Screenshots
+![busy](screenshots/busy.jpg)
+![wall](screenshots/wall.jpg)
+![dev](screenshots/dev.jpg)

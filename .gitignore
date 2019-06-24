@@ -6,6 +6,10 @@
 !.gitignore
 !README.md
 
+# Screenshots
+!screenshots/
+!screenshots/*.jpg
+
 # Configs
 !.config/
 .config/*
