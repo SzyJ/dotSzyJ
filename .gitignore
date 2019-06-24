@@ -1,0 +1,30 @@
+# Ignore Everything
+*
+
+# Exept...
+!.gitignore
+!README.md
+
+# Configs
+!*.config/init
+!*.config/neofetch/*
+!*.config/polybar/*
+!*.config/ranger/*
+!*.config/Scripts/*
+!*.config/compton.conf
+!*.config/rofi/*
+
+# Wallpaper and Colours
+!*.config/col_scheme.jpg
+!*.config/wal.jpg
+
+# Emacs
+!*/.emacs.d/config.org
+!*/.emacs.d/init.el
+
+# i3
+!*/.i3/config
+
+# Other
+!.zshrc
+!.Xprofile
