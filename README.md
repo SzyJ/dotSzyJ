@@ -13,6 +13,7 @@ Welcome to my Linux configs
 * Shell: ZShell (with oh-my-zshell)
 * Editor: Emacs
 * File Manager: Ranger
+* Terminal: [st](https://github.com/SzyJ/st)
 
 ## Screenshots
 ![busy](screenshots/busy.jpg)
